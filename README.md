@@ -4,7 +4,7 @@ Colab file to visualize locally run Alphafold models to get visualization like i
                       ![grafik](https://user-images.githubusercontent.com/13366088/148198944-758cbaab-0879-486a-8740-2522302a824d.png)
 
 # Usage
-If you want to use it in your local jupyter notebook make sure follwoing packages are installed:
+If you want to use it in your local jupyter notebook running in conda make sure follwoing packages are installed:
 ```
 py3Dmol
 ipywidgets
