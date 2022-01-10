@@ -13,4 +13,5 @@ IPython
 pickle
 matplotlib 
 numpy 
+tqdm
 ```
